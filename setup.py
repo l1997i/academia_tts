@@ -19,6 +19,7 @@ setup(
     author='Li (Luis) Li',
     author_email='li.li4@durham.ac.uk',
     description='A package to convert PPTX slide notes to audio and embed them into the slides',
+    long_description='A package to convert PPTX slide notes to audio and embed them into the slides',
     url='https://github.com/l1997i/academia_tts',
     classifiers=[
         'Programming Language :: Python :: 3',
