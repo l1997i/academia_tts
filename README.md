@@ -6,7 +6,7 @@ This package provides tools to convert PPTX slide notes to audio files and embed
 To install the package using pip, run:
 
 ```bash
-pip install academia_tts
+pip install academia-tts
 ```
 
 
