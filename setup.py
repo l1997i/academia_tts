@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='academia_tts',
-    version='0.1a',
+    version='0.1d',
     packages=find_packages(),
     install_requires=[
         'torch',
